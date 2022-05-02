@@ -39,6 +39,7 @@ button{
 button:hover{
     background-color:bisque;
     color: grey;
+    animation-duration: 2s;
 }
 
 .output{
